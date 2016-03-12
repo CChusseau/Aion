@@ -1,0 +1,51 @@
+li {
+	list-style-type: none;
+}
+
+img {
+	width: 100%;
+	border-radius: 50%;
+}
+
+h3 {
+	margin-top: 10px;
+	font-size: 16px;
+}
+
+header {
+	position: relative;
+}
+
+.info {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	color: #fff;
+	padding: 10px;
+	background-color: rgba(0,0,0,0.7);
+	width: 100%;
+}
+
+.solidaire header img {
+	border: 5px solid #f39c12;
+}
+
+.musique header img {
+	border: 5px solid #e74c3c;
+}
+
+.stage header img {
+	border: 5px solid #f1a9a0;
+}
+
+.jeux header img {
+	border: 5px solid #87d37c;
+}
+
+.atelier header img {
+	border: 5px solid #f7ca18;
+}
+
+.quiz header img {
+	border: 5px solid #bf55ec;
+}
